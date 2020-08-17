@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyOllie</string>
+    <string name="button1">Connexion au Myo</string>
+    <string name="button2">Bleu</string>
+    <string name="button5">Vert</string>
+    <string name="button4">Rouge</string>
+    <string name="button3">Connexion à Ollie</string>
+    <string name="couleurs">Changer la couleur du robot :</string>
+</resources>
