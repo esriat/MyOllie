@@ -4,7 +4,7 @@
 
 This project is an Android application that allows you to manipulate an Ollie robot using a Myo armband.
 
-As the Myo armband is no longer sold, documentation and packages/libraries are slowly disapearing. That's why there's a file called "myorepository". Here's the link of the source code : https://github.com/thalmiclabs/RAD-projects/tree/master/MyoWhip.
+As the Myo armband is no longer sold, documentation and packages/libraries are slowly disapearing. That's why there's a file called "myorepository". Here's the link of the source code : https://github.com/thalmiclabs/RAD-projects/tree/master/MyoWhip. <br/>
 I'm not trying to steal the work of the autor. As documentation and libraries are slowly disapearing, and as we depend on this specific repository, we decided to copy it here, so the application will work even if the repository gets deleted.
 
 This application was made during my second year of studies during a school project. The code is not clean, and not optimized. Also, it was only made in a couple of weeks, when I had no idea how Android worked.
