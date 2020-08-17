@@ -21,11 +21,12 @@ In order to use this application, you'll need Bluetooth. Obviously, you'll also 
 
 First, connect it to your Ollie robot, and then to your Myo armband. Connecting the robot first is better, as connecting to the Myo armband is easier.
 
-Now, you can manipulate the robot by moving your fingers and your hand. There might be errors here, I'll update this file ASAP it it's the case :
+Now, you can manipulate the robot by moving your fingers and your hand. There might be errors here, I'll update this file ASAP if it's the case :
 - <strong>FIST</strong> : To move the Ollie robot <strong>forward</strong>, in a straight line.
 - <strong>SPREAD FINGERS</strong> : To move the robot <strong>backwards</strong> in a straight line. 
 - <strong>WAVE RIGHT</strong> : To make the robot turn to the right. Be careful, we will not turn to your right, but to <strong>his</strong> right.
 - <strong>WAVE LEFT</strong> : To make the robot turn to the left. Same warning than the "WAVE RIGHT" command.
+- <strong>Nothing particular</strong> : The robot should stop itself.
 
 Note that the Myo armband is capricious. Do not hesitate to exaggerate the movements so that the Myo detects them correctly, or at least, more easily.
 
